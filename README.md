@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ravina 👋  
 
-<!--
-**Ravina1-ops/Ravina1-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | Aspiring Software Engineer  
+💻 Learning DSA in C++ | Python Developer | Exploring Cloud & AI/ML  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools  
+- **Languages:** C++, Python, C  
+- **Core Subjects:** DSA, OS, DBMS  
+- **Tools:** Git, GitHub, VS Code  
+- **Libraries:** Tkinter, SpeechRecognition, pyttsx3  
+
+---
+
+## 📌 Featured Projects  
+### 🤖 AI Boss - Desktop Virtual Assistant  
+🔹 Voice + Text Assistant with Tkinter GUI  
+🔹 Speech Recognition + Text-to-Speech  
+🔹 Opens Google, YouTube, LinkedIn, Spotify, tells time  
+
+🔗 Repo: [AI Assistant Project](https://github.com/Ravina1-ops/AI_Assistant_Project)
+
+---
+
+## 📚 Currently Learning  
+- Data Structures & Algorithms (C++)  
+- Python Development  
+- Cloud Basics  
+
+---
+
+## 🌐 Connect With Me  
+- LinkedIn: https://linkedin.com/in/ravina-s-23052b334  
+- GitHub: https://github.com/Ravina1-ops  
