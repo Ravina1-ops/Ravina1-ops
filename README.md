@@ -86,6 +86,11 @@ My Python learning journey with practice programs and mini projects.
 </p>
 
 ---
+## 🏆 Achievements
+- 🥇 **Academic Excellence:** Secured **8.23 CGPA** in 1st year
+- 🎓 **IBM Certifications:** AI Agent Architect, AI Fundamentals
+- 💻 **Project Development:** Built real-world Python applications (GUI + Speech Recognition)
+- 🚀 **Consistency:** Regular contributor on GitHub with active learning repositories
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: [Ravina Saini](https://www.linkedin.com/in/ravina-s-23052b334/)
