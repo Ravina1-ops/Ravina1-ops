@@ -39,6 +39,7 @@ Currently, I am focusing on **DSA in C++**, **Python development**, and explorin
 - PyAudio
 - pyttsx3
 - Pillow
+- Streamlit
 
 ---
 
