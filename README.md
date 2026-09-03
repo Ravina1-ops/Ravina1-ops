@@ -57,6 +57,7 @@ A Machine Learning project focused on image classification, processing raw pixel
 
 A standalone graphical utility built to process simultaneous voice and text queries, optimizing routine desktop multitasking workflows.
 
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square" alt="Tkinter" />
