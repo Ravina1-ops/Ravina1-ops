@@ -76,7 +76,7 @@ A standalone graphical utility built to process simultaneous voice and text quer
 
 ### 📘 Mastering DSA
 
-A highly organized repository logging fundamental and intermediate problem-solving patterns solved natively in C++.
+A highly organized repository logging fundamental and intermediate problem-solving patterns solved natively in C++. 
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
