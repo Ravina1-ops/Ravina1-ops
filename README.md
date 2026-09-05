@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravina</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Python Developer | C++ Programmer | B.Tech CSE Student</h3>
+<h3 align="center">Aspiring Machine Learning Engineer | Python Developer | C++ Programmer | B.Tech CSE Student</h3> 
 
 <p align="center">
   <a href="https://github.com/Ravina1-ops"><img src="https://img.shields.io/badge/GitHub-Ravina1--ops-black?style=for-the-badge&logo=github"></a>
