@@ -135,13 +135,13 @@ A multi-module code collective tracking continuous daily implementation, script 
 ## 📈 Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravina1-ops&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Ravina1-ops&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ravina1-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravina1-ops&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages by Repo" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravina1-ops&layout=donut&theme=tokyonight&hide_border=true&by_commits=true" alt="Top Languages by Commit" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ravina1-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravina1-ops&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages by Repo" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravina1-ops&layout=donut&theme=tokyonight&hide_border=true&by_commits=true" alt="Top Languages by Commit" />
 </p>
 ---
 
