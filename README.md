@@ -128,7 +128,7 @@ A multi-module code collective tracking continuous daily implementation, script 
 - [ ] Master relational database logic via custom SQL practices
 - [ ] Learn AWS Cloud Architecture foundations
 - [ ] Document codebase modules within open-source channels
-- [ ] Secure a specialized, real-world AI/ML Engineering internship
+- [ ] Secure a specialized, real-world AI/ML Engineering internship 
 
 ---
 
